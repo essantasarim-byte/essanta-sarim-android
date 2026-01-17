@@ -1,0 +1,77 @@
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║              ✅ KOD GITHUB'A YÜKLENDİ!                      ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+
+🎉 BAŞARILI! Kod başarıyla GitHub'a yüklendi!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📱 APK'YI İNDİRMEK İÇİN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ADIM 1: GitHub Actions Sayfasına Gidin
+--------------------------------------
+Tarayıcınızda açıldı veya bu linke gidin:
+https://github.com/essantasarim-byte/essanta-sarim-android/actions
+
+ADIM 2: Derleme İşlemini Bekleyin (5-10 dakika)
+--------------------------------------
+- Sarı nokta (🟡) = Derleniyor
+- Yeşil tik (✅) = Tamamlandı
+- Kırmızı X (❌) = Hata (bana bildirin)
+
+ADIM 3: APK'yı İndirin
+--------------------------------------
+Derleme tamamlandığında (yeşil ✅):
+
+1. "Build Android APK" workflow'una tıklayın
+2. Aşağı kaydırın
+3. "Artifacts" bölümünü bulun
+4. "app-debug" veya "app-release-unsigned" indirin
+5. ZIP dosyasını açın
+6. İçindeki APK dosyasını alın
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📱 APK'YI TELEFONA KURMA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. APK dosyasını telefona gönderin (WhatsApp/Email/USB)
+2. Telefonda: Ayarlar > Güvenlik > "Bilinmeyen kaynaklar" aktif
+3. APK dosyasını açın
+4. "Kur" butonuna basın
+5. Uygulama hazır! 🎉
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 YENİ SÜRÜM OLUŞTURMA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Kod değişikliği yaptığınızda:
+
+1. Değişiklikleri yapın
+2. Git komutları:
+   git add .
+   git commit -m "Değişiklik açıklaması"
+   git push
+
+3. GitHub Actions otomatik yeni APK derler
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📦 RELEASE SÜRÜMÜ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Her başarılı derleme sonrası otomatik release oluşturulur:
+https://github.com/essantasarim-byte/essanta-sarim-android/releases
+
+Buradan da APK indirebilirsiniz!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✨ TAMAMLANDI! ✨
+
+Şimdi GitHub Actions sayfasında derleme işlemini izleyin.
+5-10 dakika sonra APK hazır olacak!

@@ -1,0 +1,59 @@
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║          GITHUB REPOSITORY OLUŞTURMA TALİMATI               ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+
+✅ Git kuruldu ve kod hazır!
+
+ŞİMDİ YAPMANIZ GEREKENLER:
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ADIM 1: GitHub'a Giriş Yapın
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Tarayıcınızda: https://github.com/login
+
+Hesabınız yoksa: https://github.com/signup
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ADIM 2: Yeni Repository Oluşturun
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. Bu linke gidin: https://github.com/new
+
+2. Repository name: essanta-sarim-android
+
+3. Description: Essanta Sarim Android Uygulaması
+
+4. Public seçin (ücretsiz)
+
+5. "Create repository" butonuna tıklayın
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ADIM 3: GitHub Kullanıcı Adınızı Bana Söyleyin
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Repository oluşturduktan sonra GitHub kullanıcı adınızı bana yazın.
+
+Örnek: "kullanici_adim: mehmet123"
+
+Ben kodu otomatik olarak yükleyeceğim.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SONRA NE OLACAK?
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. Ben kodu GitHub'a yükleyeceğim
+2. GitHub Actions otomatik APK derleyecek (5-10 dakika)
+3. APK'yı GitHub'dan indirebileceksiniz
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+HAZIR MISINIZ?
+
+Repository oluşturdunuz mu? GitHub kullanıcı adınızı yazın!
