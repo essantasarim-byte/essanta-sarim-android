@@ -1,0 +1,96 @@
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║     ESSANTA SARIM ANDROID UYGULAMASI - APK OLUSTURMA        ║
+║              www.essantasarim.com                            ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+
+✅ Logo entegre edildi!
+✅ Uygulama hazır!
+
+3 FARKLI YÖNTEM:
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 YÖNTEM 1: OTOMATIK (GitHub Actions) - ÖNERİLEN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Süre: 15 dakika | Zorluk: Orta | Sonuç: Profesyonel APK
+
+ADIMLAR:
+
+1. Git'i kur:
+   → https://git-scm.com/download/win
+   → Kur ve bilgisayarı yeniden başlat
+
+2. "setup-and-upload.bat" dosyasına çift tıkla
+   → GitHub kullanıcı adını gir
+   → Talimatları takip et
+
+3. APK'yı indir:
+   → GitHub repository > Actions
+   → Yeşil ✓ işaretli workflow > Artifacts > app-debug
+
+Detaylı talimatlar: GITHUB_SETUP.md
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⚡ YÖNTEM 2: HIZLI (AppGeyser) - EN KOLAY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Süre: 2 dakika | Zorluk: Çok Kolay | Sonuç: Basit APK
+
+ADIMLAR:
+
+1. https://appgeyser.com adresine git
+2. "Create App" > "Website" seç
+3. URL: https://www.essantasarim.com
+4. Uygulama adı: Essanta Sarim
+5. "Create" > APK'yı indir
+
+NOT: AppGeyser logosu olabilir, özelleştirme sınırlı
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🛠️ YÖNTEM 3: MANUEL (Android Studio)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Süre: 1 saat | Zorluk: Zor | Sonuç: Tam Kontrol
+
+ADIMLAR:
+
+1. Android Studio'yu indir ve kur
+2. Bu projeyi aç
+3. Build > Build Bundle(s) / APK(s) > Build APK(s)
+
+Detaylı talimatlar: README.md
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📱 APK'YI TELEFONA KURMA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. APK dosyasını telefona gönder (WhatsApp/Email/USB)
+2. Ayarlar > Güvenlik > "Bilinmeyen kaynaklar" aktif et
+3. APK'yı aç ve "Kur" butonuna bas
+4. Uygulama hazır! 🎉
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💡 HANGİSİNİ SEÇMELİYİM?
+
+→ Hızlı test için: YÖNTEM 2 (AppGeyser)
+→ Profesyonel kullanım: YÖNTEM 1 (GitHub Actions)
+→ Tam kontrol istiyorsanız: YÖNTEM 3 (Android Studio)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 DAHA FAZLA BİLGİ
+
+→ Hızlı başlangıç: HIZLI_BASLANGIC.md
+→ GitHub detayları: GITHUB_SETUP.md
+→ Genel bilgiler: README.md
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✨ BAŞARILAR! ✨
